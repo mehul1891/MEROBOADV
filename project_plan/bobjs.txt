@@ -1,0 +1,7 @@
+# Created by Mehul Oswal on 5/15/2016
+
+# PRIMARY OBJECTIVES OF MEROBOADV
+
+1. Review the market data set on a continuous basis and determine the portfolio position.
+2. Incorporate indicators to determine short or long position
+3. Notify decision
