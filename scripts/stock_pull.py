@@ -6,3 +6,26 @@
 	# 1. Access Yahoo Finance API
 	# 2. Retrieve stock data
 	# 3. Run at a set time every day
+
+# Import relevant libraries
+import pandas as pd
+import pandas.io.data as web
+
+# 1. Access Yahoo Finance API
+
+
+
+
+
+
+
+# 2. Retrieve stock data
+
+
+
+
+
+
+
+
+# 3. Run at a set time every day
